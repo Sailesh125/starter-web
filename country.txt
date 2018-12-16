@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "hello,This is India"
+echo "This is India"
+echo "Capital of India id Newdelhi"
