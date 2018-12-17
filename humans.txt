@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <badal>
+    <badal chowdhury>
 
 # TECHNOLOGY COLOPHON
 
